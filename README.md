@@ -10,3 +10,10 @@ Features & Functionalities;
 6. By filling the details , you can add a new element &
    it will be available on the sidebar.
 7. If you refresh the page, the page will come to it's initial stage.
+
+
+How to run ?
+
+1. clone the repo.
+2. npm install.
+3. npm run dev.
